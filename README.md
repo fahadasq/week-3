@@ -32,6 +32,8 @@ Here are some resources to help you with this week's assignment:
 
 You will create a simple weather app that displays the current weather conditions for a given location. This will only be front-end development, so you will not need to worry about fetching data from an API.
 
+## Setup And Tutorial
+
 ### 1. Setup
 
 - Fork this repository
@@ -434,7 +436,7 @@ MaterialApp(
 );
 ```
 
-### 6. Creating a Single Page Weather App
+## Task: Creating a Single Page Weather App
 
 Your job is to create a single page weather app that displays the current weather conditions for a given location. This will only be front-end development, so you will not need to worry about fetching data from an API.
 
@@ -442,18 +444,18 @@ The design of the app is up to you, and you can use any resources you want to he
 
 However, The structure of the app should follow the requirements below.
 
-#### Requirements
+### Requirements
 
 - The app should have a screens folder containing any screen created in a separate file
 - The app should have a widgets folder containing any custom widgets created in a separate file
 
-#### Optional Requirements
+### Optional Requirements
 
 - The app should have a models folder containing any models created in a separate file (Example, WeatherStatusModel)
 - Create a simple layout for the app that includes a text field for entering a location and a button to submit the location.
 - Display the current weather conditions for the location in a card or container.
 
-#### Provided examples
+### Provided examples
 
 - [Login Page](/lib/example/LoginPage/)
 - [MiCard](/lib/example/MiCard/)
